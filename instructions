@@ -1,0 +1,3 @@
+nvcc -o hellot main.cu -lGL -lGL -lglfw -lGLEW
+./hellot
+Press space to start
